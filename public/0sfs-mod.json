@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "id": "0sfs/mod-template-payload",
+  "kind": "payload",
+  "name": "Example payload",
+  "summary": "Replace this summary, then push.",
+  "execution": "declarative",
+  "provenance": {
+    "repository": "https://github.com/0SFS/mod-template-payload",
+    "owner": "0SFS",
+    "license": "AGPL-3.0-only",
+    "authors": [
+      "0SFS contributors"
+    ]
+  },
+  "dependencies": [],
+  "payload": {
+    "payloadType": "store",
+    "store": {
+      "id": 0,
+      "key": "example-store",
+      "label": "Example store",
+      "massLbs": 0,
+      "dragAreaFt2": 0,
+      "lengthM": null,
+      "diameterM": null,
+      "spanM": null,
+      "boxM": null,
+      "meshStandIn": false,
+      "rounds": null,
+      "massNote": null
+    }
+  }
+}
